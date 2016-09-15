@@ -1,2 +1,3 @@
 # hello-world
-This is my repository
+
+Beginning project 1 for CS 430.
